@@ -1,0 +1,34 @@
+[
+    {
+        "id": "m1",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsFYwBy4j-3DZIn_WdgZI9KHJ5mWcgqlS18A&s",
+        "name": "Bright",
+        "releaseYear": 2017,
+        "director":"David Ayer",
+        "duration": "117min",
+        "genres": ["Action"],
+        "description": "In an LA rife with interspecies tensions, a human cop and his orc partner stumble on a powerful object and become embroiled in a prophesied turf war."
+    },
+
+    {
+        "id": "m2",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzWbwKdjRtNxsgbclf35xAKPEfdP00osntQgJoJu8vPui41aANAgGwZR7_onXLF59NaXw&usqp=CAU",
+        "name": "Tomb Raider",
+        "releaseYear": 2018,
+        "director":"Roar Uthaug",
+        "duration": "119min",
+        "genres": ["Adventure"],
+        "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father, Lord Richard Croft disappeared."
+    },
+
+    {
+        "id": "m3",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFuqgPdpi68azbLgAXTrw2kCjmaQ30GfiA5NdbgSLvG97VC3l0exrxoMhTg7vrPfIJvE&usqp=CAU",
+        "name": "The Fall Guy",
+        "releaseYear": 2024,
+        "director":"David Leitch",
+        "duration": "124min",
+        "genres": ["Comedy"],
+        "description": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film."
+    }
+]

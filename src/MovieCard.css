@@ -1,0 +1,66 @@
+.icons{
+padding-left: 1.5rem;
+   height: 3rem;
+   padding-top: 1.2rem;
+   display: flex;
+   gap: 0.7rem;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 20rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px black;
+    color: white;
+}
+img{
+    width: 120px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+.card .upper_part{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 1.5rem;
+    gap: 1rem;
+    width: 50%;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+#time{
+    box-shadow: 0 4px 10px black;
+    padding: 2px;
+    border-radius: 5px;
+}
+#genre{
+    margin-left: 7px;
+}
+.card .desc{
+    width: 40%;
+    padding-left: 1.5rem;
+}
+#m1{
+    background-image:  url('./assets/bright.jpg');
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+#m2{
+    background-image: url('./assets/thomb-rider.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+   }
+   #m3{
+    background-image: url('./assets/fallguy.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
